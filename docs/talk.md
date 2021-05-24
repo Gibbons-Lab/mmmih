@@ -132,6 +132,7 @@ How do we get a genome-scale metabolic model in the first place?
 
 - structural quality ([MEMOTE](https://doi.org/10.1038/s41587-020-0446-y))
 - gap-filling for a standard growth medium (LB, M9, ...)
+- example: [carveME EMBL GEMs](https://github.com/cdanielmachado/embl_gems) - 5587 strains
 
 <br><br>
 
@@ -140,6 +141,7 @@ How do we get a genome-scale metabolic model in the first place?
 - growth on various carbon sources ("likes maltose but not glucose")
 - known metabolic conversion ("produces indole from tryptophan")
 - strain-specific biomass composition
+- example: [AGORA](https://www.vmh.life/#microbes/) - 818 strains from human gut
 
 
 ---

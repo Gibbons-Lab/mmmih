@@ -13,7 +13,7 @@ is to [download the entire repository](https://github.com/Gibbons-Lab/mmmih/arch
 
 ## A Deep-Dive into Microbe-Centric Metabolic Modeling
 
-Presentation: [![part 1](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=part1)](https://gibbons-lab.github.io/mmmih)
+Presentation: [![slides](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=slides)](https://gibbons-lab.github.io/mmmih)
 Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gibbons-Lab/mmmih/blob/main/micom.ipynb)
 
 You can see the actual workshop walkthrough at
