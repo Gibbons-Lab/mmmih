@@ -1,4 +1,4 @@
-<!-- .slide: data-background="assets/isb/microbes-midnight.png" class="dark" -->
+<!-- .slide: data-background="assets/isb/microbes-midnight.jpg" class="dark" -->
 
 # A Deep-Dive into Microbe-Centric Metabolic Modeling
 
@@ -118,7 +118,7 @@ How do we get a genome-scale metabolic model in the first place?
 
 ---
 
-<img src="assets/reconstruction_strategies.png" width="100%">
+<img src="assets/reconstruction_strategies.png" width="95%">
 
 ---
 
@@ -238,19 +238,27 @@ Check out how to use MICOM for a "n-of-1" analysis.
 
 <img src="assets/coding.gif" width="50%">
 
-----
+---
+
+<!-- .slide: data-background="var(--primary)" class="dark" -->
+
+### And we are done :clap:
+
+# Thanks!
+
+---
 
 ## The niche space
 
 <img src="assets/fig4.png" width="100%">
 
-----
+---
 
 ## Metabolic connections with disease
 
 <img src="assets/fig5.png" width="100%">
 
-----
+---
 
 <!-- .slide: data-background="var(--primary)" class="dark" -->
 
@@ -259,10 +267,3 @@ is most directly related to the phenotype.
 
 This is the flux the *intestinal cells* can interact with.
 
----
-
-<!-- .slide: data-background="var(--primary)" class="dark" -->
-
-### And we are done :clap:
-
-# Thanks!
