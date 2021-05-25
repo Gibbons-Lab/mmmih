@@ -232,7 +232,7 @@ Well, metagenome-scale models are slightly larger... :sweat:
 
 ## Your turn
 
-Check out how to use MICOM for a "n-of-1" analysis.
+Check out how to use MICOM for a functional analysis of *C. difficile* infection.
 
 [open the notebook](https://colab.research.google.com/github/Gibbons-Lab/mmmih/blob/main/workshop.ipynb)
 
