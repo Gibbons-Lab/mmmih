@@ -234,6 +234,8 @@ Well, metagenome-scale models are slightly larger... :sweat:
 
 Check out how to use MICOM for a "n-of-1" analysis.
 
+[open the notebook](https://colab.research.google.com/github/Gibbons-Lab/mmmih/blob/main/workshop.ipynb)
+
 <img src="assets/coding.gif" width="50%">
 
 ----
